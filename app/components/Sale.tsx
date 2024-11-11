@@ -7,7 +7,7 @@ function Sale() {
         <div className="w-full md:w-[80%] h-full">
           {/* Top Section */}
           <div>
-            <span className="border-l-8 border-red-300 text-red-500 mb-5 font-bold">Today's</span>
+            <span className="border-l-8 border-red-300 text-red-500 mb-5 font-bold">Todays</span>
             <h2 className="text-3xl md:text-4xl font-bold mt-4">Flash Sales</h2>
           </div>
 
